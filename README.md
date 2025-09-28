@@ -1,3 +1,5 @@
+![alt text](Animação.gif)
+
 # Pokédex
 
 Uma aplicação web responsiva desenvolvida como parte do desafio técnico do DevQuest para explorar informações sobre Pokémon, consumindo a PokéAPI.
