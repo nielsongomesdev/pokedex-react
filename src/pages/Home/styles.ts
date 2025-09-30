@@ -89,7 +89,7 @@ export const ThemeButton = styled(BaseButton)`
   border: 2px solid #ffcb05;
   
   @media (max-width: 480px) {
-    transform: translateX(-6px);
+    transform: translateX(-8px);
   }
 `;
 
